@@ -13,9 +13,7 @@ body {
 
 }
 
-/* Mis trabajos */
-
-#Mis-trabajos .image-top {
+#card-foto .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -49,4 +47,7 @@ body {
 h1Principal{
   color:white; 
   text-shadow:black 0.1em 0.1em 0.2em;
+}
+h2{
+  color: brown;
 }
