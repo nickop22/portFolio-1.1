@@ -54,3 +54,8 @@ h2{
 card{
   background-color: #A97D5D;
 }
+#footerIcon{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
