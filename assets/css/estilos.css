@@ -37,7 +37,7 @@ body {
   }
 
 }
-#bannerPrincipal{
+h1{
   color: blueviolet;
 }
 #parrafoPrincipal{
@@ -50,4 +50,10 @@ h1Principal{
 }
 h2{
   color: 73a3c;
+}
+body{
+  background-color: #E1CBA3;
+}
+card{
+  background-color: #A97D5D;
 }
